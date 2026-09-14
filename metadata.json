@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Grand Marquee",
+  "description": "A grand venue for your most memorable celebrations in Faisalabad, Pakistan. Premier event hall for weddings, receptions, engagements, and corporate events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
